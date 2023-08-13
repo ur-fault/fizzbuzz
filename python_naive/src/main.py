@@ -9,4 +9,4 @@ for n in range(100):
         print(n)
         
     # It's naive because it's not scalable.
-    # If we want to add more conditions, we have to add more if-else statements. 
+    # If we want to add more conditions, we have to add more if-else statements.
